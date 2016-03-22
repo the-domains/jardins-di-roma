@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jardins di Roma]]></title>
+        <description><![CDATA[Jardins di Roma]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 23:56:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>O Jardins di Roma é mais um empreendimento com tudo que você procura: lazer, natureza, segurança e uma localização privilegiada. Por dentro: natureza, áreas de lazer e uma vida plena com segurança. Ao sair, acesso rápido aonde quer que você vá.</p>]]></description>
+            <link>undefinedo-jardins-di-roma-e-mais-um-empreendimento-com-tudo-que-voce/index.html</link>
+            <guid isPermaLink="false">f1fa2b87-2f14-462a-b759-c73f965a25d9</guid>
+            <pubDate>Tue, 22 Mar 2016 23:56:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
