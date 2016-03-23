@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'O Jardins di Roma é mais um empreendimento com tudo que você procura: lazer, natureza, segurança e uma localização privilegiada. Por dentro: natureza, áreas de lazer e uma vida plena com segurança. Ao sair, acesso rápido aonde quer que você vá.'
-datePublished: '2016-03-22T23:56:32.892Z'
-dateModified: '2016-03-22T23:55:57.268Z'
+datePublished: '2016-03-23T00:02:01.073Z'
+dateModified: '2016-03-23T00:01:54.112Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-22-o-jardins-di-roma-e-mais-um-empreendimento-com-tudo-que-voce.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-o-jardins-di-roma-e-mais-um-empreendimento-com-tudo-que-voce.md
-published: true
 url: o-jardins-di-roma-e-mais-um-empreendimento-com-tudo-que-voce/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaef2240-1372-4659-8ae3-92ec78d9688d.gif)
+
 O Jardins di Roma é mais um empreendimento com tudo que você procura: lazer, natureza, segurança e uma localização privilegiada. Por dentro: natureza, áreas de lazer e uma vida plena com segurança. Ao sair, acesso rápido aonde quer que você vá.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edfa3573-4ab9-40e7-89b3-dd88a3e385ce.jpg)
 
