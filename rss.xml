@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Jardins di Roma]]></title>
         <description><![CDATA[Jardins di Roma]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jardins-di-roma/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 23:56:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 00:02:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jardins-di-roma/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>O Jardins di Roma é mais um empreendimento com tudo que você procura: lazer, natureza, segurança e uma localização privilegiada. Por dentro: natureza, áreas de lazer e uma vida plena com segurança. Ao sair, acesso rápido aonde quer que você vá.</p>]]></description>
-            <link>undefinedo-jardins-di-roma-e-mais-um-empreendimento-com-tudo-que-voce/index.html</link>
+            <link>https://thegrid.ai/jardins-di-roma/o-jardins-di-roma-e-mais-um-empreendimento-com-tudo-que-voce/index.html</link>
             <guid isPermaLink="false">f1fa2b87-2f14-462a-b759-c73f965a25d9</guid>
-            <pubDate>Tue, 22 Mar 2016 23:56:32 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 00:02:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
