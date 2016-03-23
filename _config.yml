@@ -1,7 +1,7 @@
 name: Jardins di Roma
 favicon: null
-layout_spectrum: 0.08465963648632169
-typography_spectrum: 0.6107934622559696
+layout_spectrum: 0.95778
+typography_spectrum: 0.63249
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#0b0b09'
+    - '#bbbbbb'
+    - '#474f52'
+    - '#a5804b'
   brandStrength: 0.36520449351519346
   lightness: 0.7935893076937646
   saturation: 0.33167178742587566
