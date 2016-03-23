@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: 'O Jardins di Roma é mais um empreendimento com tudo que você procura: lazer, natureza, segurança e uma localização privilegiada. Por dentro: natureza, áreas de lazer e uma vida plena com segurança. Ao sair, acesso rápido aonde quer que você vá.'
-datePublished: '2016-03-23T00:02:01.073Z'
-dateModified: '2016-03-23T00:01:54.112Z'
+description: ''
+datePublished: '2016-03-23T20:41:24.401Z'
+dateModified: '2016-03-23T20:41:17.441Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-22-o-jardins-di-roma-e-mais-um-empreendimento-com-tudo-que-voce.md
@@ -22,9 +22,4 @@ url: o-jardins-di-roma-e-mais-um-empreendimento-com-tudo-que-voce/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaef2240-1372-4659-8ae3-92ec78d9688d.gif)
-
-O Jardins di Roma é mais um empreendimento com tudo que você procura: lazer, natureza, segurança e uma localização privilegiada. Por dentro: natureza, áreas de lazer e uma vida plena com segurança. Ao sair, acesso rápido aonde quer que você vá.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edfa3573-4ab9-40e7-89b3-dd88a3e385ce.jpg)
-
-Formado por dois condomínios independentes, o que gera ainda mais segurança aos moradores e imerso numa maravilhosa cortina verde, onde você poderá relaxar na beira de um lago ou sentir a brisa do vento nos altos do Bela Vista, o novo empreendimento da EXSA DESENVOLVIMENTO URBANO, é o lugar para quem busca qualidade de vida, tranquilidade e a melhor localização.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c59982d-e136-4006-a0d1-e733115329f6.jpg)
