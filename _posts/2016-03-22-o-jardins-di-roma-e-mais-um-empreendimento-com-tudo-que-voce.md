@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-24T14:23:00.738Z'
-dateModified: '2016-03-24T14:19:44.603Z'
+datePublished: '2016-03-24T14:23:58.016Z'
+dateModified: '2016-03-24T14:23:08.916Z'
 title: Perto de tudo. Ao lado da natureza.
 author: []
 sourcePath: _posts/2016-03-22-o-jardins-di-roma-e-mais-um-empreendimento-com-tudo-que-voce.md
