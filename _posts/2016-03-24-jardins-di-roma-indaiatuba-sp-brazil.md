@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://google.com/maps'
-  name: Google Maps
-  favicon: 'https://www.google.com/images/branding/product/ico/maps_32dp.ico'
-  domain: www.google.com
-keywords: []
-description: ''
-app_links: []
-isBasedOnUrl: 'https://www.google.com/maps/place/Jardins+di+Roma,+Indaiatuba+-+SP,+Brazil/@-23.0682036,-47.2397556,18z/data=!4m2!3m1!1s0x94c8b30985bfacbd:0xd61cae919e4a6522?hl=en-US'
-title: 'Jardins di Roma, Indaiatuba - SP, Brazil'
-datePublished: '2016-03-24T14:44:51.009Z'
-dateModified: '2016-03-24T14:38:00.946Z'
-sourcePath: _posts/2016-03-24-jardins-di-roma-indaiatuba-sp-brazil.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.google.com/maps/place/Jardins+di+Roma,+Indaiatuba+-+SP,+Brazil/@-23.0682036,-47.2397556,18z/data=!4m2!3m1!1s0x94c8b30985bfacbd:0xd61cae919e4a6522?hl=en-US'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-24T14:48:19.771Z'
+dateModified: '2016-03-24T14:45:00.201Z'
+author: []
+related: []
+app_links: []
+title: 'Jardins di Roma, Indaiatuba - SP, Brazil'
+sourcePath: _posts/2016-03-24-jardins-di-roma-indaiatuba-sp-brazil.md
+published: true
+authors: []
+publisher:
+  name: Google Maps
+  domain: www.google.com
+  url: 'http://google.com/maps'
+  favicon: 'https://www.google.com/images/branding/product/ico/maps_32dp.ico'
 _type: Place
 _context: 'http://schema.org'
 
